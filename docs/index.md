@@ -53,7 +53,7 @@
                     <p>⚫ qrules - Shows embed with rules</p>
                 </div>
             </div>
-            <button class="btn"  onclick="location.href='https://automodbot.tk'">Back To Main Page</button>
+            <button class="btn"  onclick="location.href='https://pipobot.tk'">Back To Main Page</button>
             <br>
             <h4>Copyright © AUTOMODBOT 2021</h4>
         </div>
